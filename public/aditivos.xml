@@ -1,0 +1,2436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <aditivo>
+        <numero>E100</numero>
+        <nombre>Curcumina</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E100ii</numero>
+        <nombre>Cúrcuma</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E101</numero>
+        <nombre>Riboflavina (Lactoflavina)</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E101a</numero>
+        <nombre>Fosfato de Riboflavina</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E102</numero>
+        <nombre>Tartrazina</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E103</numero>
+        <nombre>Crisoína</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E104</numero>
+        <nombre>Amarillo de Quinoleína</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E105</numero>
+        <nombre>Amarillo Sólido</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E106</numero>
+        <nombre>Fosfato de Lactoflavina</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E107</numero>
+        <nombre>Amarillo 2G</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E110</numero>
+        <nombre>Amarillo Ocaso FCF</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E111</numero>
+        <nombre>Naranja GGN</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E120</numero>
+        <nombre>Ácido Carmínico</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E120i</numero>
+        <nombre>Rojo Carmín</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E120ii</numero>
+        <nombre>Extracto de Cochinilla</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E121</numero>
+        <nombre>Rojo Cítrico 2</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E122</numero>
+        <nombre>Azorrubina (Carmoisina)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E123</numero>
+        <nombre>Amaranto</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E124</numero>
+        <nombre>Ponceau 4R</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E125</numero>
+        <nombre>Ponceau SX</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E126</numero>
+        <nombre>Ponceau 6R</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E127</numero>
+        <nombre>Eritrosina</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E128</numero>
+        <nombre>Rojo 2G</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E129</numero>
+        <nombre>Rojo Allura AC</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E130</numero>
+        <nombre>Azul de Antraquinona</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E131</numero>
+        <nombre>Azul Patente V</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E132</numero>
+        <nombre>Indigotina (Carmín Índigo)</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E133</numero>
+        <nombre>Azul Brillante FCF</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E140</numero>
+        <nombre>Clorofilas</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E140i</numero>
+        <nombre>Clorofila</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E140ii</numero>
+        <nombre>Clorofilina</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E141</numero>
+        <nombre>Complejos Cúpricos de Clorofila</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E141i</numero>
+        <nombre>Complejos Cúpricos de Clorofilas</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E141ii</numero>
+        <nombre>Complejos Cúpricos de Clorofilinas</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E142</numero>
+        <nombre>Verde Ácido Brillante</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E150</numero>
+        <nombre>Caramelo</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E150a</numero>
+        <nombre>Caramelo Cáustico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E150b</numero>
+        <nombre>Caramelo Cáustico de Sulfito</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E150c</numero>
+        <nombre>Caramelo Amónico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E150d</numero>
+        <nombre>Caramelo Sulfito de Amoníaco</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E151</numero>
+        <nombre>Negro Brillante BN</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E152</numero>
+        <nombre>Negro 7984</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E153</numero>
+        <nombre>Carbón Vegetal Medicinal</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E154</numero>
+        <nombre>Marrón FK</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E155</numero>
+        <nombre>Marrón Chocolate HT</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E160</numero>
+        <nombre>Beta Caroteno</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E160a</numero>
+        <nombre>Carotenoides</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E160b</numero>
+        <nombre>Annatto, Bixina, Norbixina</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E160c</numero>
+        <nombre>Extracto de Pimiento (Paprika)</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E160d</numero>
+        <nombre>Licopeno</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E160e</numero>
+        <nombre>Beta Apocarotenal</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E160f</numero>
+        <nombre>Ester Etílico Ácido Beta Apocarotenoico</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E161</numero>
+        <nombre>Xantófilas</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E161a</numero>
+        <nombre>Flavoxantina</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E161b</numero>
+        <nombre>Luteína</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E161c</numero>
+        <nombre>Criptoxantina</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E161d</numero>
+        <nombre>Rubixantina</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E161e</numero>
+        <nombre>Violaxantina</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E161f</numero>
+        <nombre>Rodoxantina</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E161g</numero>
+        <nombre>Cantaxantina</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E161h</numero>
+        <nombre>Zeaxantina</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E161j</numero>
+        <nombre>Astaxantina</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E162</numero>
+        <nombre>Rojo Remolacha (Betanina)</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E163</numero>
+        <nombre>Antocianinas</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E163a</numero>
+        <nombre>Cianidina</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E163b</numero>
+        <nombre>Delfinidina</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E163c</numero>
+        <nombre>Malvidina</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E164d</numero>
+        <nombre>Pelargonidina</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E164e</numero>
+        <nombre>Peonidina</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E165f</numero>
+        <nombre>Petunidina</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E170</numero>
+        <nombre>Carbonatos Cálcicos</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E170i</numero>
+        <nombre>Carbonato de Calcio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E170ii</numero>
+        <nombre>Bicarbonato de Calcio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E171</numero>
+        <nombre>Óxido de Titanio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E172</numero>
+        <nombre>Óxido de Hierro</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E173</numero>
+        <nombre>Aluminio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E174</numero>
+        <nombre>Plata</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E175</numero>
+        <nombre>Oro</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E180</numero>
+        <nombre>Pigmento Rubí (Litolrubina BK)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E181</numero>
+        <nombre>Tierra Sombra Quemada</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E182</numero>
+        <nombre>Orceína (Orcina, Orcilla)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E200</numero>
+        <nombre>Ácido Sórbico</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E201</numero>
+        <nombre>Sorbato de Sodio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E202</numero>
+        <nombre>Sorbato de Potasio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E203</numero>
+        <nombre>Sorbato de Calcio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E210</numero>
+        <nombre>Ácido Benzoico</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E211</numero>
+        <nombre>Benzoato de Sodio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E212</numero>
+        <nombre>Benzoato de Potasio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E213</numero>
+        <nombre>Benzoato de Calcio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E214</numero>
+        <nombre>Etil Hidroxibenzoato</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E215</numero>
+        <nombre>Etil Hidroxibenzoato de Sodio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E216</numero>
+        <nombre>Propil Hidroxibenzoato</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E217</numero>
+        <nombre>Propil Hidroxibenzoato de Sodio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E218</numero>
+        <nombre>Metil Hidroxibenzoato</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E219</numero>
+        <nombre>Metil Hidroxibenzoato de Sodio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E220</numero>
+        <nombre>Dióxido de Azufre (Sulfitos)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E221</numero>
+        <nombre>Sulfito de Sodio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E222</numero>
+        <nombre>Sulfito Ácido de Sodio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E223</numero>
+        <nombre>Metabisulfito de Sodio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E224</numero>
+        <nombre>Metabisulfito de Potasio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E225</numero>
+        <nombre>Sulfito de Potasio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E226</numero>
+        <nombre>Sulfito de Calcio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E227</numero>
+        <nombre>Sulfito Ácido de Calcio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E228</numero>
+        <nombre>Sulfito Ácido de Potasio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E230</numero>
+        <nombre>Bifenilo (Difenilo)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E231</numero>
+        <nombre>Ortofenil Fenol</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E232</numero>
+        <nombre>Ortofenil Fenolato Sódico</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E233</numero>
+        <nombre>Tiabendazol</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E234</numero>
+        <nombre>Nisina</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E235</numero>
+        <nombre>Natamicina (Pimaricina)</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E236</numero>
+        <nombre>Ácido Fórmico (Metanoico)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E237</numero>
+        <nombre>Formiato de Sodio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E238</numero>
+        <nombre>Formiato de Calcio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E239</numero>
+        <nombre>Hexametil Entetramina (Hexamina)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E240</numero>
+        <nombre>Formaldehído (Formol, Formalina)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E242</numero>
+        <nombre>Dimetil Dicarbonato</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E243</numero>
+        <nombre>Etil Lauroil Arginato</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E249</numero>
+        <nombre>Nitrito de Potasio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E250</numero>
+        <nombre>Nitrito de Sodio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E251</numero>
+        <nombre>Nitrato de Sodio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E252</numero>
+        <nombre>Nitrato de Potasio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E260</numero>
+        <nombre>Ácido Acético</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E261</numero>
+        <nombre>Acetato de Potasio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E262</numero>
+        <nombre>Acetato de Sodio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E263</numero>
+        <nombre>Acetato de Calcio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E264</numero>
+        <nombre>Acetato de Amonio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E270</numero>
+        <nombre>Ácido Láctico</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E280</numero>
+        <nombre>Ácido Propiónico</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E281</numero>
+        <nombre>Propionato de Sodio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E282</numero>
+        <nombre>Propionato de Calcio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E283</numero>
+        <nombre>Propionato de Potasio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E284</numero>
+        <nombre>Ácido Bórico</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E285</numero>
+        <nombre>Tetraborato de Sodio (Bórax)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E290</numero>
+        <nombre>Dióxido de Carbono</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E296</numero>
+        <nombre>Ácido Málico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E297</numero>
+        <nombre>Ácido Fumárico</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E300</numero>
+        <nombre>Ácido Ascórbico</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E301</numero>
+        <nombre>Ascorbato de Sodio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E302</numero>
+        <nombre>Ascorbato de Calcio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E303</numero>
+        <nombre>Ascorbato de Potasio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E304</numero>
+        <nombre>Palmitato Ascorbilo</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E305</numero>
+        <nombre>Estearato Ascorbilo</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E306</numero>
+        <nombre>Extractos Naturales Ricos en Tocoferol</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E307</numero>
+        <nombre>Alfa Tocoferol</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E308</numero>
+        <nombre>Gama Tocoferol</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E309</numero>
+        <nombre>Delta Tocoferol</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E310</numero>
+        <nombre>Galato de Propilo</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E311</numero>
+        <nombre>Galato de Octilo</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E312</numero>
+        <nombre>Galato de Dodecilo</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E315</numero>
+        <nombre>Ácido Eritórbico</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E316</numero>
+        <nombre>Eritorbato Sódico</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E319</numero>
+        <nombre>Butil Hidroquinona (BHQ)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E320</numero>
+        <nombre>Butil Hidroxianisol (BHA)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E321</numero>
+        <nombre>Butil Hidroxitolueno (BHT)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E322</numero>
+        <nombre>Lecitina</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E325</numero>
+        <nombre>Lactato de Sodio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E326</numero>
+        <nombre>Lactato de Potasio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E327</numero>
+        <nombre>Lactato de Calcio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E328</numero>
+        <nombre>Lactato de Amonio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E329</numero>
+        <nombre>Lactato de Magnesio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E330</numero>
+        <nombre>Ácido Cítrico</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E331</numero>
+        <nombre>Citratos de Sodio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E332</numero>
+        <nombre>Citratos de Potasio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E333</numero>
+        <nombre>Citratos de Calcio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E334</numero>
+        <nombre>Ácido Tartárico</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E335</numero>
+        <nombre>Tartrato de Sodio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E336</numero>
+        <nombre>Tartrato de Potasio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E337</numero>
+        <nombre>Tartrato Doble de Sodio y Potasio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E338</numero>
+        <nombre>Ácido Ortofosfórico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E339</numero>
+        <nombre>Ortofosfatos de Sodio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E339i</numero>
+        <nombre>Ortofosfato Monosódico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E339ii</numero>
+        <nombre>Ortofosfato Disódico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E339iii</numero>
+        <nombre>Ortofosfato Trisódico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E340</numero>
+        <nombre>Ortofosfatos de Potasio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E340i</numero>
+        <nombre>Ortofosfato Monopotásico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E340ii</numero>
+        <nombre>Ortofosfato Dipotásico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E340iii</numero>
+        <nombre>Ortofosfato Tripotásico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E341</numero>
+        <nombre>Ortofosfatos de Calcio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E341i</numero>
+        <nombre>Ortofosfato Monocálcico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E341ii</numero>
+        <nombre>Ortofosfato Dicálcico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E341iii</numero>
+        <nombre>Ortofosfato Tricálcico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E342</numero>
+        <nombre>Ortofosfatos de Amonio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E342i</numero>
+        <nombre>Ortofosfato Monoamónico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E342ii</numero>
+        <nombre>Ortofosfato Diamónico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E342iii</numero>
+        <nombre>Ortofosfato Triamónico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E343</numero>
+        <nombre>Ortofosfatos de Magnesio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E343i</numero>
+        <nombre>Ortofosfato Monomagnésico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E343ii</numero>
+        <nombre>Ortofosfato Dimagnésico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E343iii</numero>
+        <nombre>Ortofosfato Trimagnésico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E349</numero>
+        <nombre>Malatos de Amonio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E349i</numero>
+        <nombre>Malato de Amonio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E349ii</numero>
+        <nombre>Malato Ácido de Amonio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E350</numero>
+        <nombre>Malatos de Sodio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E350i</numero>
+        <nombre>Malato de Sodio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E350ii</numero>
+        <nombre>Malato Ácido de Sodio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E351</numero>
+        <nombre>Malatos de Potasio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E351i</numero>
+        <nombre>Malato de Potasio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E351ii</numero>
+        <nombre>Malato Ácido de Potasio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E352</numero>
+        <nombre>Malatos de Calcio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E352i</numero>
+        <nombre>Malato de Calcio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E352ii</numero>
+        <nombre>Malato Ácido de Calcio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E353</numero>
+        <nombre>Ácido Metatartárico</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E354</numero>
+        <nombre>Tartrato de Calcio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E355</numero>
+        <nombre>Ácido Adípico</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E356</numero>
+        <nombre>Adipato de Sodio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E357</numero>
+        <nombre>Adipato de Potasio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E363</numero>
+        <nombre>Ácido Succínico</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E364</numero>
+        <nombre>Fumarato de Magnesio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E365</numero>
+        <nombre>Fumarato de Sodio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E366</numero>
+        <nombre>Fumarato de Potasio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E367</numero>
+        <nombre>Fumarato de Calcio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E368</numero>
+        <nombre>Fumarato de Amonio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E370</numero>
+        <nombre>Heptonolactona</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E375</numero>
+        <nombre>Ácido Nicotínico (Niacina)</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E380</numero>
+        <nombre>Citrato Triamónico</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E381</numero>
+        <nombre>Citrato Férrico de Amonio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E385</numero>
+        <nombre>Etileno Diamina Tetra Acetato (EDTA)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E386</numero>
+        <nombre>Ácido Etileno Diamino Tetraacético (AEDT)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E392</numero>
+        <nombre>Extracto de Romero</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E400</numero>
+        <nombre>Ácido Algínico</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E401</numero>
+        <nombre>Alginato de Sodio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E402</numero>
+        <nombre>Alginato de Potasio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E403</numero>
+        <nombre>Alginato de Amonio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E404</numero>
+        <nombre>Alginato de Calcio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E405</numero>
+        <nombre>Alginato de Propilenglicol</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E406</numero>
+        <nombre>Agar-Agar</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E407</numero>
+        <nombre>Carragenanos</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E407a</numero>
+        <nombre>Algas Eucheuma</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E410</numero>
+        <nombre>Goma Garrofín (Algarrobo)</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E412</numero>
+        <nombre>Goma Guar</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E413</numero>
+        <nombre>Goma Tragacanto (Aldragante)</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E414</numero>
+        <nombre>Goma Arábiga</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E415</numero>
+        <nombre>Goma Xantana</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E416</numero>
+        <nombre>Goma Karaya</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E417</numero>
+        <nombre>Goma Tara</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E418</numero>
+        <nombre>Goma Gellan</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E420</numero>
+        <nombre>Sorbitol</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E421</numero>
+        <nombre>Manitol</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E422</numero>
+        <nombre>Glicerol</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E425</numero>
+        <nombre>Goma Konjac (Glucomanano)</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E426</numero>
+        <nombre>Hemicelulosa de Soja</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E427</numero>
+        <nombre>Goma Cassia</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E430</numero>
+        <nombre>Estearato Polioxietileno 8</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E431</numero>
+        <nombre>Estearato Polioxietileno 40</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E432</numero>
+        <nombre>Monolaurato Polioxietilenado (Polisorbato 20)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E433</numero>
+        <nombre>Monooleato Polioxietilenado (Polisorbato 80)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E434</numero>
+        <nombre>Monopalmitato Polioxietilenado (Polisorbato 40)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E435</numero>
+        <nombre>Monoestearato Polioxietilenado (Polisorbato 60)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E436</numero>
+        <nombre>Triestearato Polioxietilenado (Polisorbato 65)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E440</numero>
+        <nombre>Pectina</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E440a</numero>
+        <nombre>Pectinas</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E440b</numero>
+        <nombre>Pectinas Amidadas</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E441</numero>
+        <nombre>Gelatina (VER VÍDEO)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E442</numero>
+        <nombre>Fosfátidos de Amonio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E444</numero>
+        <nombre>Acetato Isobutirato de Sacarosa</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E445</numero>
+        <nombre>Ésteres Glicéridos Colofonia de Madera</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E445i</numero>
+        <nombre>Abietato de Glicerilo</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E445ii</numero>
+        <nombre>Goma Éster</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E450</numero>
+        <nombre>Difosfatos</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E450i</numero>
+        <nombre>Difosfato Disódico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E450ii</numero>
+        <nombre>Difosfato Trisódico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E450iii</numero>
+        <nombre>Difosfato Tetrasódico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E450iv</numero>
+        <nombre>Difosfato Dipotásico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E450v</numero>
+        <nombre>Difosfato Tetrapotásico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E450vi</numero>
+        <nombre>Difosfato Dicálcico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E450vii</numero>
+        <nombre>Difosfato Ácido de Calcio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E450ix</numero>
+        <nombre>Difosfato Magnésico de Dihidrógeno</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E451</numero>
+        <nombre>Trifosfatos</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E451i</numero>
+        <nombre>Trifosfato Pentasódico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E451</numero>
+        <nombre>Trifosfato Pentapotásico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E452</numero>
+        <nombre>Polifosfatos</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E452i</numero>
+        <nombre>Polifosfato de Sodio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E452ii</numero>
+        <nombre>Polifosfato de Potasio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E452iii</numero>
+        <nombre>Polifosfato de Sodio y Calcio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E452iv</numero>
+        <nombre>Polifosfato de Calcio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E452v</numero>
+        <nombre>Polifosfato de Amonio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E459</numero>
+        <nombre>Beta Ciclodextrina</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E460</numero>
+        <nombre>Celulosa Microcristalina</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E461</numero>
+        <nombre>Metilcelulosa</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E462</numero>
+        <nombre>Etilcelulosa</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E463</numero>
+        <nombre>Hidroxipropil Celulosa</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E464</numero>
+        <nombre>Hidroxipropil Metilcelulosa</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E465</numero>
+        <nombre>Etilmetil Celulosa</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E466</numero>
+        <nombre>Carboximetil Celulosa de sodio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E467</numero>
+        <nombre>Etilhidroxietil Celulosa</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E468</numero>
+        <nombre>Carboximetil Celulosa de Sodio Reticulada</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E469</numero>
+        <nombre>Carboximetil Celulosa de Sodio Hidrolizada</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E470</numero>
+        <nombre>Sales de los Ácidos Grasos</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E470a</numero>
+        <nombre>Sales de Sodio, Potasio y Calcio de los Ácidos Grasos</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E470b</numero>
+        <nombre>Sales de Magnesio de los Ácidos Grasos</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E471</numero>
+        <nombre>Mono y Diglicéridos de los Ácidos Grasos</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E472</numero>
+        <nombre>Ésteres de los Mono y Diglicéridos de los Ácidos Grasos</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E472a</numero>
+        <nombre>Ésteres Acéticos de los Mono y Diglicéridos de los Ácidos Grasos</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E472b</numero>
+        <nombre>Ésteres Lácticos de los Mono y Diglicéridos de los Ácidos Grasos</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E472c</numero>
+        <nombre>Ésteres Cítricos de los Mono y Diglicéridos de los Ácidos Grasos</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E472d</numero>
+        <nombre>Ésteres Tartáricos de los Mono y Diglicéridos de los Ácidos Grasos</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E472e</numero>
+        <nombre>Ésteres Monoacetiltartárico y Diacetiltartárico de los Mono y Diglicéridos 
+de los Ácidos Grasos</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E472f</numero>
+        <nombre>Ésteres Mixtos Acéticos y Tartáricos de los Mono y Diglicéridos de los 
+Ácidos Grasos</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E473</numero>
+        <nombre>Sucroésteres de los Ácidos Grasos</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E474</numero>
+        <nombre>Sucroglicéridos de los Ácidos Grasos</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E475</numero>
+        <nombre>Ésteres Poliglicéridos de los Ácidos Grasos</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E476</numero>
+        <nombre>Polirricinoleato de Poliglicerol</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E477</numero>
+        <nombre>Ésteres de Propilenglicol de los Ácidos Grasos</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E479b</numero>
+        <nombre>Aceite de Soja Oxidado</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E480</numero>
+        <nombre>Dioctil Sulfosuccinato de Sodio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E481</numero>
+        <nombre>Estearoil-2-Lactilato Sódico</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E482</numero>
+        <nombre>Estearoil-2-Lactilato Cálcico</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E483</numero>
+        <nombre>Tartrato de Estearilo</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E491</numero>
+        <nombre>Monoestearato de Sorbitán</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E492</numero>
+        <nombre>Triestearato de Sorbitán</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E493</numero>
+        <nombre>Monolaurato de Sorbitán</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E494</numero>
+        <nombre>Monooleato de Sorbitán</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E495</numero>
+        <nombre>Monopalmitato de Sorbitán</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E499</numero>
+        <nombre>Fitoesteroles Ricos en Estigmasterol</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E500</numero>
+        <nombre>Carbonatos de Sodio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E500i</numero>
+        <nombre>Carbonato de Sodio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E500ii</numero>
+        <nombre>Carbonato Ácido de Sodio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E501</numero>
+        <nombre>Carbonatos de Potasio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E501i</numero>
+        <nombre>Carbonato de Potasio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E501ii</numero>
+        <nombre>Carbonato Ácido de Potasio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E503</numero>
+        <nombre>Carbonatos de Amonio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E503i</numero>
+        <nombre>Carbonato de Amonio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E503ii</numero>
+        <nombre>Carbonato Ácido de Amonio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E504</numero>
+        <nombre>Carbonatos de Magnesio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E504i</numero>
+        <nombre>Carbonato de Magnesio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E504ii</numero>
+        <nombre>Carbonato Ácido de Magnesio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E507</numero>
+        <nombre>Ácido Clorhídrico</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E508</numero>
+        <nombre>Cloruro de Potasio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E509</numero>
+        <nombre>Cloruro de Calcio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E510</numero>
+        <nombre>Cloruro de Amonio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E511</numero>
+        <nombre>Cloruro de Magnesio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E512</numero>
+        <nombre>Cloruro de Estaño</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E513</numero>
+        <nombre>Ácido Sulfúrico</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E514</numero>
+        <nombre>Sulfatos de Sodio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E514i</numero>
+        <nombre>Sulfato de Sodio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E514ii</numero>
+        <nombre>Sulfato Ácido de Sodio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E516</numero>
+        <nombre>Sulfatos de Calcio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E516i</numero>
+        <nombre>Sulfato de Calcio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E516ii</numero>
+        <nombre>Sulfato Ácido de Calcio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E517</numero>
+        <nombre>Sulfatos de Amonio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E517i</numero>
+        <nombre>Sulfato de Amonio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E517ii</numero>
+        <nombre>Sulfato Ácido de Amonio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E518</numero>
+        <nombre>Sulfatos de Magnesio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E518i</numero>
+        <nombre>Sulfato de Magnesio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E518ii</numero>
+        <nombre>Sulfato Ácido de Magnesio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E519</numero>
+        <nombre>Sulfatos de Cobre</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E519i</numero>
+        <nombre>Sulfato de Cobre</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E519ii</numero>
+        <nombre>Sulfato Ácido de Cobre</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E520</numero>
+        <nombre>Sulfato de Aluminio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E521</numero>
+        <nombre>Sulfato Sódico de Aluminio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E522</numero>
+        <nombre>Sulfato Potásico de Aluminio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E523</numero>
+        <nombre>Sulfato Amónico de Aluminio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E524</numero>
+        <nombre>Hidróxido de Sodio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E525</numero>
+        <nombre>Hidróxido de Potasio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E526</numero>
+        <nombre>Hidróxido de Calcio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E527</numero>
+        <nombre>Hidróxido de Amonio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E528</numero>
+        <nombre>Hidróxido de Magnesio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E529</numero>
+        <nombre>Óxido de Calcio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E530</numero>
+        <nombre>Óxido de Magnesio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E535</numero>
+        <nombre>Ferrocianuro de Sodio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E536</numero>
+        <nombre>Ferrocianuro de Potasio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E537</numero>
+        <nombre>Ferrocianuro de Magnesio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E538</numero>
+        <nombre>Ferrocianuro de Calcio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E540</numero>
+        <nombre>Pirofosfato Dicálcico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E541</numero>
+        <nombre>Fosfato Ácido de Sodio y Aluminio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E542</numero>
+        <nombre>Fosfato de Huesos</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E543</numero>
+        <nombre>Pirofosfato de Sodio y Calcio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E544</numero>
+        <nombre>Pirofosfato de Calcio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E545</numero>
+        <nombre>Pirofosfato de Amonio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E546</numero>
+        <nombre>Pirofosfato de Magnesio</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E551</numero>
+        <nombre>Óxido de Silicio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E552</numero>
+        <nombre>Silicato de Calcio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E553a</numero>
+        <nombre>Silicato de Magnesio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E553b</numero>
+        <nombre>Talco</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E554</numero>
+        <nombre>Silicato de Sodio y Aluminio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E555</numero>
+        <nombre>Silicato de Potasio y Aluminio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E556</numero>
+        <nombre>Silicato de Calcio y Aluminio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E558</numero>
+        <nombre>Bentonita</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E559</numero>
+        <nombre>Silicato de Aluminio (Caolín, Caolinita)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E570</numero>
+        <nombre>Ácidos Grasos</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E571</numero>
+        <nombre>Estearato de Amonio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E572</numero>
+        <nombre>Estearato de Magnesio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E573</numero>
+        <nombre>Estearato de Aluminio</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E574</numero>
+        <nombre>Ácido Glucónico</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E575</numero>
+        <nombre>Glucono Delta Lactona (GDL)</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E576</numero>
+        <nombre>Gluconato Sódico</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E577</numero>
+        <nombre>Gluconato Potásico</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E578</numero>
+        <nombre>Gluconato Cálcico</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E579</numero>
+        <nombre>Gluconato Ferroso</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E585</numero>
+        <nombre>Lactato Ferroso</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E620</numero>
+        <nombre>Ácido Glutámico (Glutamatos)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E621</numero>
+        <nombre>Glutamato Monosódico</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E622</numero>
+        <nombre>Glutamato Monopotásico</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E623</numero>
+        <nombre>Glutamato Cálcico</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E624</numero>
+        <nombre>Glutamato Amónico</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E625</numero>
+        <nombre>Glutamato Magnésico</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E626</numero>
+        <nombre>Ácido Guanílico</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E627</numero>
+        <nombre>Guanilato Sódico</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E628</numero>
+        <nombre>Guanilato Potásico</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E629</numero>
+        <nombre>Guanilato Cálcico</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E630</numero>
+        <nombre>Ácido Inosínico</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E631</numero>
+        <nombre>Inosinato Sódico</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E632</numero>
+        <nombre>Inosinato Potásico</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E633</numero>
+        <nombre>Inosinato Cálcico</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E634</numero>
+        <nombre>Ribonucleótidos Cálcicos</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E635</numero>
+        <nombre>Ribonucleótidos Sódicos</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E636</numero>
+        <nombre>Maltol</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E637</numero>
+        <nombre>Etilmaltol</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E640</numero>
+        <nombre>Glicina y Glicinato Sódico</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E650</numero>
+        <nombre>Acetato de Zinc</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E900</numero>
+        <nombre>Dimetil Polisiloxano (DMS)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E900a</numero>
+        <nombre>Polidimetil Siloxano (PDMS)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E901</numero>
+        <nombre>Cera de Abejas</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E902</numero>
+        <nombre>Cera Candelilla</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E903</numero>
+        <nombre>Cera Carnaúba</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E904</numero>
+        <nombre>Goma Laca (Shellac)</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E905</numero>
+        <nombre>Cera Microcristalina</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E907</numero>
+        <nombre>Poli-1-Deceno Hidrogenado</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E912</numero>
+        <nombre>Ésteres del Ácido Montánico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E913</numero>
+        <nombre>Lanolina (Cera de Lana)</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E914</numero>
+        <nombre>Cera Polietileno Oxidada</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E920</numero>
+        <nombre>L-Cisteína</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E927a</numero>
+        <nombre>Azodicarbonamida</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E927b</numero>
+        <nombre>Carbamida (Urea)</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E938</numero>
+        <nombre>Gas Argón</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E939</numero>
+        <nombre>Gas Helio</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E941</numero>
+        <nombre>Gas Nitrógeno</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E942</numero>
+        <nombre>Gas Óxido nitroso</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E943a</numero>
+        <nombre>Gas Butano</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E943b</numero>
+        <nombre>Gas Isobutano</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E944</numero>
+        <nombre>Gas Propano</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E948</numero>
+        <nombre>Gas Oxígeno</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E949</numero>
+        <nombre>Gas Hidrógeno</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E950</numero>
+        <nombre>Acesulfamo K (Acesulfame)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E951</numero>
+        <nombre>Aspartamo (Aspartame)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E952</numero>
+        <nombre>Ciclamato</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E953</numero>
+        <nombre>Isomaltosa</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E954</numero>
+        <nombre>Sacarina</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E955</numero>
+        <nombre>Sucralosa</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E957</numero>
+        <nombre>Taumatina</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E958</numero>
+        <nombre>Glicirricina</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E959</numero>
+        <nombre>Neohesperidina (NHDC)</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E960</numero>
+        <nombre>Esteviósido (Extracto de Stevia)</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E961</numero>
+        <nombre>Neotamo (Neotame)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E962</numero>
+        <nombre>Sal de Aspartamo y Acesulfamo</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E963</numero>
+        <nombre>Tagatosa</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E965i</numero>
+        <nombre>Maltitol</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E965ii</numero>
+        <nombre>Jarabe de Maltitol</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E966</numero>
+        <nombre>Lactitol</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E967</numero>
+        <nombre>Xilitol</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E968</numero>
+        <nombre>Eritritol</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E969</numero>
+        <nombre>Advantamo (Advantame)</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E999</numero>
+        <nombre>Extracto de Quillay (Garcinia Cambogia)</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1100</numero>
+        <nombre>Amilasa (Diastasa)</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1103</numero>
+        <nombre>Invertasa (Sacarasa)</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1105</numero>
+        <nombre>Lisozima (Muramidasa)</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1200</numero>
+        <nombre>Polidextrosa</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1201</numero>
+        <nombre>Polivinil Pirrolidona (PVP)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1202</numero>
+        <nombre>Polivinil Polipirrolidona (PVPP)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1203</numero>
+        <nombre>Alcohol Polivinílico (PVOH)</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1204</numero>
+        <nombre>Pululano (Pullulane)</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1208</numero>
+        <nombre>Copolímero de Acetato de Vinilo</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1209</numero>
+        <nombre>Copolímero de Injerto (PVA-PEG)</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1400</numero>
+        <nombre>Dextrina</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1401</numero>
+        <nombre>Almidón Ácido</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1402</numero>
+        <nombre>Almidón Alcalino Modificado</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1403</numero>
+        <nombre>Almidón Blanqueado</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1404</numero>
+        <nombre>Almidón Oxidado</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1405</numero>
+        <nombre>Almidón Enzimático</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1410</numero>
+        <nombre>Fosfato Monoalmidón</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1412</numero>
+        <nombre>Fosfato Dialmidón</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1413</numero>
+        <nombre>Fosfato Dialmidón Fosfatado</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1414</numero>
+        <nombre>Fosfato Dialmidón Acetilado</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1420</numero>
+        <nombre>Almidón Acetilado</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1422</numero>
+        <nombre>Adipato Dialmidón Acetilado</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1440</numero>
+        <nombre>Hidroxipropil Almidón</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1442</numero>
+        <nombre>Fosfato Dialmidón Hidroxipropilado</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1450</numero>
+        <nombre>Octenil Succinato Sódico de Almidón</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1451</numero>
+        <nombre>Almidón Oxidado Acetilado</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1452</numero>
+        <nombre>Octenil Succinato Alumínico de Almidón</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1505</numero>
+        <nombre>Citrato de Trietilo</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1517</numero>
+        <nombre>Diacetín (Diacetato de Glicerina)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1518</numero>
+        <nombre>Triacetín (Triacetato de Glicerina)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1519</numero>
+        <nombre>Alcohol Bencílico</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1520</numero>
+        <nombre>Propilenglicol</nombre>
+        <toxicidad>PRECAUCIÓN</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E1521</numero>
+        <nombre>Polietilenglicoles</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+</document>
+
