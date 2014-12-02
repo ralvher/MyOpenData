@@ -26,10 +26,13 @@ get '/' do
 
 	datos.each do |i|
 		num = i["numero"].to_s.delete "[\"]"
+		puts "#{i["nombre"]}"
 		nombre = i["nombre"].to_s.delete "[\"]"
 		tox = i["toxicidad"].to_s.delete "[\"]"
 
 		@info = Aditivos.first_or_create(:numero  => num, :name => nombre, :toxicidad => tox)
+
+		sleep 1
 	end
 
 end

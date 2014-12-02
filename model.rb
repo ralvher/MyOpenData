@@ -5,7 +5,7 @@ class Aditivos
 	include DataMapper::Resource
 		property :id, Serial
 		property :numero, String, :key => true
-		property :name, String 
+		property :name, Text 
 		property :toxicidad, String
 		
 end
