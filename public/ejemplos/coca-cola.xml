@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<CocaColaLight>
+
+	<Ingredientes>
+		<row Descripcion="Agua Carbonatada" />
+		<row Descripcion="Colorante E-150d" />
+		<row Descripcion="Edulcorantes E-952, E-950 y E-951" />
+		<row Descripcion="Acidulantes E-338 y E-330" />
+		<row Descripcion="Aromas (incluyendo Cafeina)" />
+		<row Descripcion="Fuente de Fenilanina" />
+	</Ingredientes>
+
+</CocaColaLight>
