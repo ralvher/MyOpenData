@@ -11,12 +11,19 @@ class Aditivos
 	def self.busqueda(id)
 		repository(:default).adapter.select("SELECT * FROM Aditivos WHERE UPPER(numero) like '%#{id}%' OR UPPER(name) like '%#{id}%' OR UPPER(toxicidad) like '%#{id}%'")
 	end
+
+	
 end
 
 class Productos
 	include DataMapper::Resource
 	property :id, Serial
 	property :nombre, Text
-	property :aditivo, String
+	property :name, String
+
+	def self.relacion(nombre)
+		repository(:default).adapter.select("SELECT * FROM Productos NATURAL JOIN Aditivos WHERE UPPER(nombre)='%#{nombre}%' ")
+	end
+
 
 end

@@ -30,9 +30,6 @@ GEM
       dm-core (~> 1.2.0)
     dm-migrations (1.2.0)
       dm-core (~> 1.2.0)
-    dm-postgres-adapter (1.2.0)
-      dm-do-adapter (~> 1.2.0)
-      do_postgres (~> 0.10.6)
     dm-serializer (1.2.2)
       dm-core (~> 1.2.0)
       fastercsv (~> 1.5)
@@ -56,8 +53,6 @@ GEM
       uuidtools (~> 2.1)
     dm-validations (1.2.0)
       dm-core (~> 1.2.0)
-    do_postgres (0.10.14)
-      data_objects (= 0.10.14)
     do_sqlite3 (0.10.14)
       data_objects (= 0.10.14)
     erubis (2.7.0)
@@ -68,7 +63,6 @@ GEM
     mime-types (2.4.3)
     multi_json (1.10.1)
     netrc (0.8.0)
-    pg (0.17.1)
     pry (0.10.1)
       coderay (~> 1.1.0)
       method_source (~> 0.8.1)
@@ -105,12 +99,10 @@ PLATFORMS
 DEPENDENCIES
   data_mapper
   dm-core
-  dm-postgres-adapter
   dm-sqlite-adapter
   dm-timestamps
   dm-types
   erubis
-  pg
   pry
   rest-client
   sinatra
