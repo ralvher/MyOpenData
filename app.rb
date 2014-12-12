@@ -21,8 +21,6 @@ end
 
 get '/' do
 
-	
-
 end
 
 post '/' do
