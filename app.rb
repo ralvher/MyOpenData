@@ -23,7 +23,16 @@ get '/' do
 	erb :index
 end
 
+post '/' do
 
+	prod = params[:producto].upcase
+	@consulta = Productos.relacion(prod)
+
+	puts "producto = #{prod}"
+
+	erb :index
+
+end	
 
 get '/db' do
 
@@ -31,9 +40,7 @@ get '/db' do
 
 end
 
-post '/' do
 
-end	
 
 
 get '/aditivos' do
@@ -64,6 +71,12 @@ get '/actualizar' do
 		@info = Aditivos.first_or_create(:numero  => num, :name => nombre, :toxicidad => tox)
 
 	end
+
+	#BASE DE DATOS DE PRODUCTOS:
+
+	#Coca-Cola
+	consult = Productos.first_or_create(:nombre => "Coca-Cola", :aditivo => "E150d")
+	consult = Productos.first_or_create(:nombre => "Coca-Cola", :aditivo => "E338")
 	
 end
 
