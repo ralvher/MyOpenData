@@ -23,8 +23,9 @@ get '/' do
 	erb :index
 end
 
-get '/ejemplos' do
-	erb :ejemplos
+get '/aditivos' do
+	@list = Aditivos.all(:order => [ :id.asc ])
+	erb :aditivos
 end
 
 get '/db' do
@@ -39,8 +40,6 @@ get '/db' do
 		tox = i["toxicidad"].to_s.delete "[\"]"
 
 		@info = Aditivos.first_or_create(:numero  => num, :name => nombre, :toxicidad => tox)
-
-		sleep 1
 	end
 
 end

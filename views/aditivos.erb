@@ -23,7 +23,7 @@
         </div>
         <div class="navbar-collapse collapse" id="navbar-main">
           <nav class="navbar-nav navbar-left">
-              <a class="navbar-brand" href="/">Ejemplos</a>
+              <a class="navbar-brand" href="/aditivos">Aditivos</a>
           </nav>
         </div>
       </div>
@@ -41,34 +41,34 @@
       </div>
       <div class="row">
         <h1 class="text-center">Lista Aditivos</h1>
-        <div class="table-responsive">
-          <table class="table table-hover">
-            <thead>
-              <tr>
-                <th>#</th>
-                <th>Adictivo</th>
-                <th>Toxicidad</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td>1</td>
-                <td>E-150d</td>
-                <td>No Toxico</td>
-              </tr>
-              <tr>
-                <td>2</td>
-                <td>E-151d</td>
-                <td>Muy Toxico</td>
-              </tr>
-              <tr>
-                <td>3</td>
-                <td>E-154d</td>
-                <td>Poco Toxico</td>
-              </tr>
-            </tbody>
+          <table class="table-responsive table table-hover">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>Adictivo</th>
+                  <th>Nombre</th>
+                  <th>Toxicidad</th>
+                </tr>
+              </thead>
+              <tbody>
+                <% @list.each do |valor| %>
+                  <tr>
+                    <td>
+                      <%= valor.id %>
+                    </td>
+                    <td>
+                      <a href="/" target="_blank"><%= valor.numero %></a>
+                    </td>
+                    <td>
+                      <a href="/" target="_blank"><%= valor.name %></a>
+                    </td>
+                    <td>
+                      <a href="/" target="_blank"><%= valor.toxicidad %></a>
+                    </td>
+                  </tr>
+                <% end %>
+              </tbody>
           </table>
-      </div>
     </div>
     <!-- script references
     -->
