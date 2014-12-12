@@ -3,5 +3,5 @@
     function(){
       $.get('/actualizar');
     },
-  10000);
+  300000);
 })();
