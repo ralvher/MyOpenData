@@ -7,5 +7,5 @@ class Aditivos
 		property :numero, String, :key => true
 		property :name, Text 
 		property :toxicidad, String
-		
+
 end
