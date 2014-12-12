@@ -3,9 +3,12 @@ require 'dm-migrations'
 
 class Aditivos
 	include DataMapper::Resource
-		property :id, Serial
-		property :numero, String, :key => true
-		property :name, Text 
-		property :toxicidad, String
+	property :id, Serial
+	property :numero, String, :key => true
+	property :name, Text
+	property :toxicidad, String
 
+	def self.busqueda(id)
+		repository(:default).adapter.select("SELECT * FROM Aditivos WHERE UPPER(numero) like '%#{id}%' OR UPPER(name) like '%#{id}%' OR UPPER(toxicidad) like '%#{id}%'")
+	end
 end

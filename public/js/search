@@ -1,0 +1,4 @@
+
+$('#busqueda').keyup(function() {
+  $("#mensaje-password").html("Las contraseñas deben ser iguales");
+);

@@ -27,6 +27,17 @@ get '/ejemplos' do
 	erb :ejemplos
 end
 
+post '/ejemplos' do
+	puts "Inside post /ejemplos"
+	bus = params[:busqueda].upcase
+
+	@consulta = Aditivos.busqueda(bus)
+	puts "busqueda = #{bus}"
+	
+	
+	erb :ejemplos
+end
+
 get '/db' do
 
 	
@@ -34,6 +45,8 @@ get '/db' do
 end
 
 post '/' do
+
+	
 
 end
 
@@ -49,8 +62,7 @@ get '/actualizar' do
 		tox = i["toxicidad"].to_s.delete "[\"]"
 
 		@info = Aditivos.first_or_create(:numero  => num, :name => nombre, :toxicidad => tox)
-
-		sleep 1
+		
 	end
 	
 end
