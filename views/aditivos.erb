@@ -5,6 +5,7 @@
     <title>MyOpenData</title>
     <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
     <link href="/css/bootstrap.min.css" rel="stylesheet">/</link>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <!--[if lt IE 9]
       <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
     -->
@@ -31,9 +32,11 @@
     </div>
     <div class="container">
        <div class="row">
-         <div class="text-center v-center">
+
+        <i class="v-center aa fa fa-font fa-4x"></i>
+         <div class="text-center">
             <form role="form" action="/aditivos" method="post">
-              <div class="form-group">
+              <div class="form-group col-xs-12 col-md-10 col-sm-12 col-lg-10">
                 <input type="text" class="form-control" name="busqueda" id="busqueda" placeholder="ejemplo: E-111 - toxico">
               </div>
               
@@ -42,23 +45,18 @@
         </div>        
 
       <div class="row">
-        <h1 class="text-center">Lista Aditivos</h1>
           <% if @consulta ==  nil %>
-            <table class="table-responsive table table-hover">
+            <table id="myTable" class="table-responsive table table-hover">
                 <thead>
                   <tr>
-                    <th>#</th>
-                    <th>Adictivo</th>
+                    <th>Aditivo</th>
                     <th>Nombre</th>
                     <th>Toxicidad</th>
                   </tr>
                 </thead>
                 <tbody>
                   <% @list.each do |valor| %>
-                    <tr>
-                      <td>
-                        <%= valor.id %>
-                      </td>
+                    <tr>                      
                       <td>
                         <a href="/" target="_blank"><%= valor.numero %></a>
                       </td>
@@ -73,21 +71,17 @@
                 </tbody>
             </table>
           <% else %>
-             <table class="table-responsive table table-hover">
+             <table id="myTable" class="table-responsive table table-hover">
                 <thead>
                   <tr>
-                    <th>#</th>
-                    <th>Adictivo</th>
+                    <th>Aditivo</th>
                     <th>Nombre</th>
                     <th>Toxicidad</th>
                   </tr>
                 </thead>
                 <tbody>
                   <% @consulta.each do |valor| %>
-                    <tr>
-                      <td>
-                        <%= valor.id %>
-                      </td>
+                    <tr>                      
                       <td>
                         <a href="/" target="_blank"><%= valor.numero %></a>
                       </td>
@@ -107,5 +101,7 @@
     
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/actualizar.js"></script>
+    <script src="/js/search.js"></script>
   </body>
 </html>
