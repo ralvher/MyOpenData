@@ -1,3 +1,7 @@
 *~
 *.db
+<<<<<<< HEAD
 .DS_Store
+=======
+.DS_Store
+>>>>>>> htest

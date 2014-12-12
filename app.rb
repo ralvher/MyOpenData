@@ -23,20 +23,7 @@ get '/' do
 	erb :index
 end
 
-get '/ejemplos' do
-	erb :ejemplos
-end
 
-post '/ejemplos' do
-	puts "Inside post /ejemplos"
-	bus = params[:busqueda].upcase
-
-	@consulta = Aditivos.busqueda(bus)
-	puts "busqueda = #{bus}"
-	
-	
-	erb :ejemplos
-end
 
 get '/db' do
 
@@ -46,8 +33,23 @@ end
 
 post '/' do
 
-	
+end	
 
+
+get '/aditivos' do
+	@list = Aditivos.all(:order => [ :id.asc ])
+	erb :aditivos
+
+end
+
+post '/aditivos' do
+	puts "Inside post /ejemplos"
+	bus = params[:busqueda].upcase
+
+	@consulta = Aditivos.busqueda(bus)
+	puts "busqueda = #{bus}"
+
+	erb :aditivos
 end
 
 get '/actualizar' do
@@ -62,7 +64,7 @@ get '/actualizar' do
 		tox = i["toxicidad"].to_s.delete "[\"]"
 
 		@info = Aditivos.first_or_create(:numero  => num, :name => nombre, :toxicidad => tox)
-		
+
 	end
 	
 end
