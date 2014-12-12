@@ -21,6 +21,16 @@ end
 
 get '/' do
 
+	
+
+end
+
+post '/' do
+
+end
+
+get '/actualizar' do
+
 	xml = RestClient.get "https://raw.githubusercontent.com/alu0100700435/MyOpenData/master/public/aditivos.xml" 
 	datos = XmlSimple.xml_in(xml.to_s)['aditivo']
 
@@ -34,9 +44,5 @@ get '/' do
 
 		sleep 1
 	end
-
-end
-
-post '/' do
-
+	
 end
