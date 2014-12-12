@@ -1,6 +1,3 @@
-
-<!DOCTYPE html>
-
 <html lang="es">
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
@@ -26,7 +23,7 @@
         </div>
         <div class="navbar-collapse collapse" id="navbar-main">
           <nav class="navbar-nav navbar-left">
-              <a class="navbar-brand" href="/ejemplos">Ejemplos</a>
+              <a class="navbar-brand" href="/">Ejemplos</a>
           </nav>
         </div>
       </div>
@@ -34,21 +31,16 @@
       -->
     </div>
     <div class="container">
-      <div class="row">
-        <div class="text-center v-center">
-            <h2>Escanear Alimento</h2>
-            <a href="/"> <!-- Llamada a la web para insetar el elemeto -->
-              <img alt="Imagenes Escaner Codigo" class="img-responsive col-xs-2 col-xs-offset-5" src="img/escanear-codigo.jpg"/>
-            </a>
+       <div class="row">
+         <div class="text-center v-center"
+            <form action="/" method="post">
+              <input type="text" name="aditivo"  size="40" placeholder="Ej: E-160d; Muy Toxico" value="" autofocus>
+              <button class="btn btn-success btn-lg" type="submit">Buscar</button>
+            </form>
         </div>
       </div>
-    </div>
-
-    <!-- TABLA -->
-
-    <div class ="container">
       <div class="row">
-        <h1 class="text-center">NOMBRE ALIMENTO</h1>
+        <h1 class="text-center">Lista Aditivos</h1>
         <div class="table-responsive">
           <table class="table table-hover">
             <thead>
@@ -69,9 +61,13 @@
                 <td>E-151d</td>
                 <td>Muy Toxico</td>
               </tr>
+              <tr>
+                <td>3</td>
+                <td>E-154d</td>
+                <td>Poco Toxico</td>
+              </tr>
             </tbody>
           </table>
-        </div>
       </div>
     </div>
     <!-- script references

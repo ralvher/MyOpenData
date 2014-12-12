@@ -7,7 +7,7 @@ require 'restclient'
 require 'xmlsimple'
 
 configure :development, :test do
-	DataMapper.setup(:default, "sqlite3://#{Dir.pwd}/aditives.db")
+	DataMapper.setup(:default, "sqlite3://#{Dir.pwd}/db/aditives.db")
 	DataMapper::Logger.new($stdout, :debug)
 	DataMapper::Model.raise_on_save_failure = true 
 
@@ -20,6 +20,14 @@ configure :development, :test do
 end
 
 get '/' do
+	erb :index
+end
+
+get '/ejemplos' do
+	erb :ejemplos
+end
+
+get '/db' do
 
 	
 
@@ -46,3 +54,4 @@ get '/actualizar' do
 	end
 	
 end
+
