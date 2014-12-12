@@ -34,19 +34,19 @@
        <div class="row">
 
         <i class="v-center aa fa fa-font fa-4x"></i>
-         <div class="text-center">
+         <div class="col-xs-12 col-md-12 col-sm-12 col-lg-12">
             <form role="form" action="/aditivos" method="post">
               <div class="form-group col-xs-12 col-md-10 col-sm-12 col-lg-10">
                 <input type="text" class="form-control" name="busqueda" id="busqueda" placeholder="ejemplo: E-111 - toxico">
               </div>
               
-              <button type="submit">Submit</button>
+              <button class="btn btn-primary col-xs-12 col-md-2 col-sm-12 col-lg-2" type="submit">Buscar</button>
             </form>
         </div>        
 
       <div class="row">
           <% if @consulta ==  nil %>
-            <table id="myTable" class="table-responsive table table-hover">
+            <table id="myTable" class="table-responsive table table-hover col-xs-12 col-md-12 col-sm-12 col-lg-12">
                 <thead>
                   <tr>
                     <th>Aditivo</th>
@@ -71,7 +71,7 @@
                 </tbody>
             </table>
           <% else %>
-             <table id="myTable" class="table-responsive table table-hover">
+             <table id="myTable" class="table-responsive table table-hover col-xs-12 col-md-12 col-sm-12 col-lg-12">
                 <thead>
                   <tr>
                     <th>Aditivo</th>
