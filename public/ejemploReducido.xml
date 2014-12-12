@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <aditivo>
+        <numero>E100</numero>
+        <nombre>Curcumina</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E100ii</numero>
+        <nombre>Cúrcuma</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E101</numero>
+        <nombre>Riboflavina (Lactoflavina)</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E101a</numero>
+        <nombre>Fosfato de Riboflavina</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E102</numero>
+        <nombre>Tartrazina</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E103</numero>
+        <nombre>Crisoína</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E104</numero>
+        <nombre>Amarillo de Quinoleína</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E105</numero>
+        <nombre>Amarillo Sólido</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E106</numero>
+        <nombre>Fosfato de Lactoflavina</nombre>
+        <toxicidad>INOFENSIVO</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E107</numero>
+        <nombre>Amarillo 2G</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E110</numero>
+        <nombre>Amarillo Ocaso FCF</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E111</numero>
+        <nombre>Naranja GGN</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E120</numero>
+        <nombre>Ácido Carmínico</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E120i</numero>
+        <nombre>Rojo Carmín</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E120ii</numero>
+        <nombre>Extracto de Cochinilla</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E121</numero>
+        <nombre>Rojo Cítrico 2</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+    <aditivo>
+        <numero>E122</numero>
+        <nombre>Azorrubina (Carmoisina)</nombre>
+        <toxicidad>EVITAR</toxicidad>
+    </aditivo>
+</document>
+

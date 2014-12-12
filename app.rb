@@ -7,7 +7,7 @@ require 'restclient'
 require 'xmlsimple'
 
 configure :development, :test do
-	DataMapper.setup(:default, "sqlite3://#{Dir.pwd}/aditives.db")
+	DataMapper.setup(:default, "sqlite3://#{Dir.pwd}/db/aditives.db")
 	DataMapper::Logger.new($stdout, :debug)
 	DataMapper::Model.raise_on_save_failure = true 
 
@@ -20,11 +20,12 @@ configure :development, :test do
 end
 
 get '/' do
-
+	erb :index
 end
 
-post '/' do
-
+get '/aditivos' do
+	@list = Aditivos.all(:order => [ :id.asc ])
+	erb :aditivos
 end
 
 get '/actualizar' do
@@ -39,8 +40,7 @@ get '/actualizar' do
 		tox = i["toxicidad"].to_s.delete "[\"]"
 
 		@info = Aditivos.first_or_create(:numero  => num, :name => nombre, :toxicidad => tox)
-
-		sleep 1
 	end
 	
 end
+

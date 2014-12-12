@@ -1,4 +1,7 @@
-desc "Run server"
-    task :server do
-      sh "rackup"
+task :default => :server
+
+desc "Run Server"
+task :server do
+  sh "bundle exec rackup"
 end
+
