@@ -12,6 +12,8 @@
       <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
     -->
     <link href="/css/styles.css" rel="stylesheet">/</link>
+    <script src="/js/chartkick.js"></script>
+    <script src="http://www.google.com/jsapi"></script>
   </head>
   <body>
     <div class="navbar navbar-default navbar-fixed-top">
@@ -69,30 +71,7 @@
     <div class="row">
           <% if @consulta != nil %>
             
-             <table id="myTable" class="table-responsive table table-hover col-xs-12 col-md-12 col-sm-12 col-lg-12">
-                <thead>
-                  <tr>
-                    <th>Aditivo</th>
-                    <th>Nombre</th>
-                    <th>Toxicidad</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <% @consulta.each do |valor| %>
-                    <tr>                      
-                      <td>
-                        <a href="/" target="_blank"><%= valor.numero %></a>
-                      </td>
-                      <td>
-                        <a href="/" target="_blank"><%= valor.name %></a>
-                      </td>
-                      <td>
-                        <a href="/" target="_blank"><%= valor.toxicidad %></a>
-                      </td>
-                    </tr>
-                  <% end %>
-                </tbody>
-            </table>
+            <%= bar_chart(@consulta) %>
           <% end %>
 
     </div>

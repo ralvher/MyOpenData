@@ -5,6 +5,7 @@ require 'data_mapper'
 require 'pp'
 require 'restclient'
 require 'xmlsimple'
+require 'chartkick'
 
 configure :development, :test do
 	DataMapper.setup(:default, "sqlite3://#{Dir.pwd}/db/aditives.db")
@@ -26,10 +27,14 @@ end
 post '/' do
 
 	prod = params[:producto].upcase
-	@consulta = Productos.relacion(prod)
+	consulta = Producto.relacion(prod)
+	@consulta = Hash.new
 
-	puts "producto = #{prod}"
-
+	consulta.each do |i|
+		@consulta[i.aditivo_toxicidad.to_s] = i.count.to_i
+		puts "#{i.aditivo_toxicidad} - #{i.count}"
+		
+	end
 	erb :index
 
 end	
@@ -44,7 +49,7 @@ end
 
 
 get '/aditivos' do
-	@list = Aditivos.all(:order => [ :id.asc ])
+	@list = Aditivo.all(:order => [ :id.asc ])
 	erb :aditivos
 
 end
@@ -53,7 +58,7 @@ post '/aditivos' do
 	puts "Inside post /ejemplos"
 	bus = params[:busqueda].upcase
 
-	@consulta = Aditivos.busqueda(bus)
+	@consulta = Aditivo.busqueda(bus)
 	puts "busqueda = #{bus}"
 
 	erb :aditivos
@@ -68,15 +73,18 @@ get '/actualizar' do
 		num = i["numero"].to_s.delete "[\"]"
 		nombre = i["nombre"].to_s.delete "[\"]"
 		tox = i["toxicidad"].to_s.delete "[\"]"
-		@info = Aditivos.first_or_create(:numero  => num, :name => nombre, :toxicidad => tox)
-
+		puts "#{nombre}"
+		@info = Aditivo.first_or_create(:numero  => num, :name => nombre, :toxicidad => tox)
+		puts "#{@info}"
 	end
 
 	#BASE DE DATOS DE PRODUCTOS:
 
 	#Coca-Cola
-	consult = Productos.first_or_create(:nombre => "Coca-Cola", :aditivo => "E150d")
-	consult = Productos.first_or_create(:nombre => "Coca-Cola", :aditivo => "E338")
+	numero = Aditivo.first(:numero=> "E150d")
+	numero1 = Aditivo.first(:numero=> "E338")
+	consult = Producto.first_or_create(:nombre => "Coca-Cola", :aditivo => numero )
+	consult = Producto.first_or_create(:nombre => "Coca-Cola", :aditivo => numero1 )
 	
 end
 

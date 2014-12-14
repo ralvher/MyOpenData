@@ -10,6 +10,7 @@ gem 'dm-timestamps'
 gem 'dm-types' 
 gem 'rest-client'
 gem 'xml-simple'
+gem 'chartkick'
 
 #group :production do
 	#gem "pg"
