@@ -1,4 +1,4 @@
-require 'sinatra' 
+require 'sinatra'
 require 'sinatra/reloader' if development?
 require 'rubygems'
 require 'data_mapper'
@@ -17,7 +17,7 @@ require 'chartkick'
   end
 
   DataMapper::Logger.new($stdout, :debug)
-  DataMapper::Model.raise_on_save_failure = true 
+  DataMapper::Model.raise_on_save_failure = true
 
   require_relative 'model'
 
@@ -33,21 +33,22 @@ end
 post '/' do
 
 	prod = params[:producto].upcase
-	consulta = Producto.relacion(prod)
-	@consulta = Hash.new
+  @producto
+	@consulta = Producto.relacion(prod)
+	# @consulta = Hash.new
+  #
+	# consulta.each do |i|
+	# 	@consulta[i.aditivo_toxicidad.to_s] = i.count.to_i
+	# 	puts "#{i.aditivo_toxicidad} - #{i.count}"
+	# end
 
-	consulta.each do |i|
-		@consulta[i.aditivo_toxicidad.to_s] = i.count.to_i
-		puts "#{i.aditivo_toxicidad} - #{i.count}"
-		
-	end
 	erb :index
 
-end	
+end
 
 get '/db' do
 
-	
+
 
 end
 
@@ -72,16 +73,16 @@ end
 
 get '/actualizar' do
 
-	xml = RestClient.get "https://raw.githubusercontent.com/alu0100700435/MyOpenData/master/public/aditivos.xml" 
+	xml = RestClient.get "https://raw.githubusercontent.com/alu0100700435/MyOpenData/master/public/aditivos.xml"
 	datos = XmlSimple.xml_in(xml.to_s)['aditivo']
 
 	datos.each do |i|
 		num = i["numero"].to_s.delete "[\"]"
 		nombre = i["nombre"].to_s.delete "[\"]"
 		tox = i["toxicidad"].to_s.delete "[\"]"
-		puts "#{nombre}"
+		#puts "#{nombre}"
 		@info = Aditivo.first_or_create(:numero  => num, :name => nombre, :toxicidad => tox)
-		puts "#{@info}"
+		#puts "#{@info}"
 	end
 
 	#BASE DE DATOS DE PRODUCTOS:
@@ -91,6 +92,5 @@ get '/actualizar' do
 	numero1 = Aditivo.first(:numero=> "E338")
 	consult = Producto.first_or_create(:nombre => "Coca-Cola", :aditivo => numero )
 	consult = Producto.first_or_create(:nombre => "Coca-Cola", :aditivo => numero1 )
-	
-end
 
+end

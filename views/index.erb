@@ -61,17 +61,37 @@
               <div class="form-group col-xs-12 col-md-10 col-sm-12 col-lg-10">
                 <input type="text" class="form-control" name="producto" id="producto" placeholder="ejemplo: Coca-Cola">
               </div>
-              
+
               <button class="btn btn-primary col-xs-12 col-md-2 col-sm-12 col-lg-2" type="submit">Buscar</button>
             </form>
-        </div>     
+        </div>
       </div>
     </div>
 
     <div class="row">
-          <% if @consulta != nil %>
-            <%= bar_chart @consulta %>
-          <% end %>
+      <% if @consulta != nil %>
+
+        <table id="myTable" class="table-responsive table table-hover col-xs-12 col-md-12 col-sm-12 col-lg-12">
+           <thead>
+             <tr>
+               <th>Toxicidad</th>
+               <th>Número de aditivos</th>
+             </tr>
+           </thead>
+           <tbody>
+             <% @consulta.each do |valor| %>
+               <tr>
+                 <td>
+                   <a href="/" target="_blank"><%= valor.aditivo_toxicidad.to_s %></a>
+                 </td>
+                 <td>
+                   <a href="/" target="_blank"><%= valor.count %></a>
+                 </td>
+               </tr>
+             <% end %>
+           </tbody>
+        </table>
+      <% end %>
 
     </div>
     <!-- script references
