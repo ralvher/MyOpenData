@@ -37,7 +37,7 @@ post '/' do
 	@consulta = Hash.new
 
 	consulta.each do |i|
-		@consulta[i.aditivo_toxicidad.to_s] = i.count.to_i
+		@consulta[i.aditivo_toxicidad] = i.count
 		puts "#{i.aditivo_toxicidad} - #{i.count}"
 		
 	end
