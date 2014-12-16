@@ -9,6 +9,10 @@ class Aditivo
 	property :toxicidad, String, :key => true
 	
 	has n, :producto
+
+	def self.busqueda(id)
+ 		repository(:default).adapter.select("SELECT * FROM Aditivos WHERE UPPER(numero) like '%#{id}%' OR UPPER(name) like '%#{id}%' OR UPPER(toxicidad) like '%#{id}%'")
+ 	end
 end
 
 class Producto
