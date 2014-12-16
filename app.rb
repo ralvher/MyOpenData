@@ -7,19 +7,25 @@ require 'restclient'
 require 'xmlsimple'
 require 'chartkick'
 
-configure :development, :test do
-	DataMapper.setup(:default, "sqlite3://#{Dir.pwd}/db/aditives.db")
-	DataMapper::Logger.new($stdout, :debug)
-	DataMapper::Model.raise_on_save_failure = true 
+#Database Configuration
+  configure :development, :test do
+    DataMapper.setup(:default, "sqlite3://#{Dir.pwd}/db/aditives.db")
+  end
 
-	require_relative 'model'
+  configure :production do
+    DataMapper.setup(:default, ENV['DATABASE_URL'])
+  end
 
-	DataMapper.finalize
+  DataMapper::Logger.new($stdout, :debug)
+  DataMapper::Model.raise_on_save_failure = true 
 
-	#DataMapper.auto_migrate!
-	DataMapper.auto_upgrade!
-end
+  require_relative 'model'
 
+  DataMapper.finalize
+
+  #DataMapper.auto_migrate!
+  DataMapper.auto_upgrade! #No delete information, update
+#End Database Configuration
 get '/' do
 	erb :index
 end
