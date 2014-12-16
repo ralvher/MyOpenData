@@ -42,6 +42,14 @@ post '/' do
 	# 	puts "#{i.aditivo_toxicidad} - #{i.count}"
 	# end
 
+<<<<<<< HEAD
+=======
+	consulta.each do |i|
+		@consulta[i.aditivo_toxicidad] = i.count
+		puts "#{i.aditivo_toxicidad} - #{i.count}"
+		
+	end
+>>>>>>> nada
 	erb :index
 
 end
