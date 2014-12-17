@@ -14,6 +14,7 @@
     <link href="/css/styles.css" rel="stylesheet"></script>
     <script src="/js/chartkick.js"></script>
     <script src="http://www.google.com/jsapi"></script>
+    <script src="/js/chartkick.js"></script>
   </head>
   <body>
     <div class="navbar navbar-default navbar-fixed-top">
@@ -70,21 +71,25 @@
 
     <div class="row">
       <% if @consulta != nil %>
-        <table id="myTable" class="table-responsive table table-hover col-xs-12 col-md-12 col-sm-12 col-lg-12">
+        <table id="myTable" class="table-responsive table table-hover col-xs-12">
            <thead>
              <tr>
                <th>Toxicidad</th>
                <th>Número de aditivos</th>
+               <th>Estadistica</th>
              </tr>
            </thead>
            <tbody>
              <% @consulta.each do |valor| %>
                <tr>
                  <td>
-                   <a href="/" target="_blank"><%= valor.aditivo_toxicidad.to_s %></a>
+                   <%= valor.aditivo_toxicidad.to_s %>
                  </td>
                  <td>
-                   <a href="/" target="_blank"><%= valor.count %></a>
+                   <%= valor.count %>
+                 </td>
+                 <td class="col-xs-4">
+                   <%= pie_chart({"E-952" => 1, "E-338" => 1}) %>
                  </td>
                </tr>
              <% end %>
