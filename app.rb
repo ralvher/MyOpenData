@@ -33,34 +33,12 @@ end
 post '/' do
 
 	prod = params[:producto].upcase
-  @producto
+  	@producto
 	@consulta = Producto.relacion(prod)
-	# @consulta = Hash.new
-  #
-	# consulta.each do |i|
-	# 	@consulta[i.aditivo_toxicidad.to_s] = i.count.to_i
-	# 	puts "#{i.aditivo_toxicidad} - #{i.count}"
-	# end
 
-<<<<<<< HEAD
-=======
-	consulta.each do |i|
-		@consulta[i.aditivo_toxicidad] = i.count
-		puts "#{i.aditivo_toxicidad} - #{i.count}"
-		
-	end
->>>>>>> nada
 	erb :index
 
 end
-
-get '/db' do
-
-
-
-end
-
-
 
 
 get '/aditivos' do
